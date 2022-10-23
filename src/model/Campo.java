@@ -141,4 +141,6 @@ public class Campo {
 	void minar() {
 		minado = true;
 	}
+	
+	
 }
